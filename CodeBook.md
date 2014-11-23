@@ -66,7 +66,7 @@ UCI HAR Dataset/train/X_train.txt
 UCI HAR Dataset/train/y_train.txt
 ```
 
-The files consist of documentation and data files. The data files consist of some files containing labels and column (variable) names and other files containing data values. The data values consist of subject numbers (30), activity types (6)), coded as the integers 1-6, and sensor signals, from a 561-column "feature vector". 
+The files consist of documentation and data files. The data files consist of some files containing labels and column (variable) names and other files containing data values. The data values consist of subject numbers (30), activity types (6), coded as the integers 1-6 (with corresponding text values stored separately), and sensor signals, from a 561-column "feature vector". 
 
 The data set is split betweem two folders, "test" and "train". According to the documentaion provided with the raw data set, this partition was made randomly. For this clean-up project, we will combine these into a single data set.
 
