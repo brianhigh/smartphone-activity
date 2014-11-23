@@ -49,15 +49,15 @@ analysis, and
 
 ## Detailed Requirements
 
-Detailed requirements for the **run_analysis.R** script are quoted in the comments
+Detailed requirements for the [run_analysis.R](run_analysis.R) script are quoted in the comments
 of that script, included in this code repository. This script is heavily 
 commented to clarify the requirements and to show how these requirements were 
 satisfied by the script. Please use the comments as a guide when assessing
-this project submission. Further details are provided in the **CodeBook.md**.
+this project submission. Further details are provided in the [CodeBook.md](CodeBook.md).
 
 ## Running the script
 
-After placing the ZIP data file and the **run_analysis.R** script in the same folder, you should be able to run the script like this:
+After placing the ZIP data file and the [run_analysis.R](run_analysis.R) script in the same folder, you should be able to run the script like this:
 
 
     # Set the working directory to the folder containing the data and script.
@@ -78,5 +78,5 @@ You can confirm that the output data file meets the requirements by:
 
 ## The Code Book
 
-The **CodeBook.md** file contains the code book. This is a document which 
+The [CodeBook.md](CodeBook.md) file contains the code book. This is a document which 
 describes the variables, the data, and clean-up work performed on the raw data files to produce the tidy data set and the aggregated data set submitted to satisfy the project requirements.
