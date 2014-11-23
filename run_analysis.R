@@ -3,7 +3,8 @@
 # Author: Brian High
 # Assignment: Term Project
 # Course: Getting Data, Coursera
-# Course URL: https://class.coursera.org/getdata-009
+# Course Website URL: https://class.coursera.org/getdata-009
+# Submitted Code Repository: https://github.com/brianhigh/smartphone-activity
 # Last Modified: 2014-11-23
 # Due: Before 2014-11-23, 23:30 UTC (3:30 PM PST)
 # --------------------------------------------------------------------------

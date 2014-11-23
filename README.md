@@ -12,9 +12,9 @@ of the "Getting and Cleaning Data Course Project".
 
 ## Files
 
-* **run_analysis.R** - The R code which performs all clean-up work
-* **CodeBook.md** - Describes the variables, the data, and clean-up work performed
-* **README.md** - This document explains the project, files, and how they work
+* [run_analysis.R](run_analysis.R) - The R code which performs all clean-up work
+* [CodeBook.md](CodeBook.md) - Describes the variables, the data, and clean-up work performed
+* [README.md](README.md) - This document explains the project, files, and how they work
 
 ## Project Description
 
